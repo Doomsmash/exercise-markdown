@@ -12,7 +12,7 @@ Markdown is widely used in blogging, instant messaging, online forums, collabora
 
 ### Emphasis
 If you want to write in **BOLD** use:
-'** text here **' and the text between the stars will be bold
+"** text here **" and the text between the stars will be bold
 
 ### An ordered list:
 Here is our ordered list:
