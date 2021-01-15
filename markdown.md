@@ -9,19 +9,18 @@ John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that 
 Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. 
 
 ## Ex of Markdown code
+
+### Emphasis
 If you want to write in **BOLD** use:
 '** text here **' and the text between the stars will be bold
 
-An ordered list:
-
+### An ordered list:
 Here is our ordered list:
-
 1. One
 2. Two
 3. Three
 
-A list within a list:
-
+### A list within a list:
 * Here is my list
   * and here we have sub list
   * one more line
