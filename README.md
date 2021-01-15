@@ -2,8 +2,8 @@
 
 ## Who has done the project?
 
-* Thomas @Doomsmash
-* Sagingali @Sagingali
+* Thomas [@Doomsmash](https://github.com/Doomsmash)
+* Sagingali [@Sagingali](https://github.com/SagingaliMamay)
 
 ## Description
 
